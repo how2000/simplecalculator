@@ -1,4 +1,4 @@
-# Project Name: Simple Calculator
+# Project Name: Simple Calculator Webapp
 
 ## Overview
 
